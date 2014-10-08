@@ -1,0 +1,23 @@
+{
+  "name": "statsd-json-udp-backend",
+  "version": "0.0.1",
+  "description": "A StatsD backend that emits data into Logstash compatible JSON format to UDP server.",
+  "homepage": "https://github.com/Symantec/statsd-json-udp-backend",
+  "main": "lib/json_udp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Symantec/statsd-json-udp-backend"
+  },
+  "keywords": [
+    "statsd",
+    "metrics"
+  ],
+  "engines": {
+    "node" : ">=0.8"
+  },
+  "author": "Brian Hsieh. (brian_hsieh@symantec.com)",
+  "license": "Apache 2.0"
+}
