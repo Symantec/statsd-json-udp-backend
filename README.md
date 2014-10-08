@@ -7,7 +7,7 @@ Each data point is sent separately in the following format. For example:
        "flushTimestamp" : 1406828678000,
                  "type" : "my-metric",
                  "name" : "lmm.demo2.time"
-         type_instance" : "mean"
+        "type_instance" : "mean"
 		"value" : 0.3333333333333333,
  
    }
