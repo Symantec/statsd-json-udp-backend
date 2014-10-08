@@ -20,7 +20,7 @@ backends: ['statsd-json-udpbackend']
 The backend reads the configuration options from the following
 'json-udp' hash defined in the main statsd config file:
 
-```json
+```
    {
      jsonUdp: {
       type: 'my-metric', 
