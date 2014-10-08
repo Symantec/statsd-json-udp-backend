@@ -35,14 +35,14 @@ Create a folder 'node_modules' in your statsd folder.
 
 ```
 cd node_modules
-git clone https://git.symcpe.net/scm/~brian_hsieh/statsd-json-udp-backend.git
+git clone https://github.com/Symantec/statsd-json-udp-backend.git
 ```
 
 ## Option 2
 Go to your statsd folder (cd statsd). 
 
 ```
-git clone  https://git.symcpe.net/scm/~brian_hsieh/statsd-json-udp-backend.git
+git clone https://github.com/Symantec/statsd-json-udp-backend.git
 npm install statsd-json-udp-backend
 ```
 
